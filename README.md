@@ -10,8 +10,8 @@
 <br>
 
 <p align="left">
-    🤓 Soy un <b>desarrollador de software</b> con una gran pasión por la tecnología y la resolución de problemas.
-    <br><br>🤖 Poseo una gran capacidad de adaptación a nuevos entornos y la facilidad de aprender nuevas tecnologías y herramientas.<br><br>
+    🤓 I am <b>Software Develoepr</b> with big high passion for technology and problems resolution.
+    <br><br>🤖 I have a wide capacity to adaptation a new entorns and the easy learn a new tools.<br><br>
 </p>
 
 ## Lenguajes y herramientas
