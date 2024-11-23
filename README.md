@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 <!--   my-icons -->
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedccodem/in/cristian-moreno-797b1b218/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/cmoreno1234/" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="ssoad"/></a>
