@@ -10,7 +10,7 @@
 <br>
 
 <p align="left">
-    🤓 I am <b>Software Develoepr</b> with big high passion for technology and problems resolution.
+    🤓 I am <b>Software Develoepr</b> with high passion for technology and problems resolution.
     <br><br>🤖 I have a wide capacity to adaptation a new entorns and the easy learn a new tools.<br><br>
 </p>
 
